@@ -1,0 +1,15 @@
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.csproj.AssemblyReference.cache
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.AssemblyInfoInputs.cache
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.AssemblyInfo.cs
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.csproj.CoreCompileInputs.cache
+D:\Seminar1LanguageProgramm\squereNumber\bin\Debug\net6.0\squereNumber.exe
+D:\Seminar1LanguageProgramm\squereNumber\bin\Debug\net6.0\squereNumber.deps.json
+D:\Seminar1LanguageProgramm\squereNumber\bin\Debug\net6.0\squereNumber.runtimeconfig.json
+D:\Seminar1LanguageProgramm\squereNumber\bin\Debug\net6.0\squereNumber.dll
+D:\Seminar1LanguageProgramm\squereNumber\bin\Debug\net6.0\squereNumber.pdb
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.dll
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\refint\squereNumber.dll
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.pdb
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\squereNumber.genruntimeconfig.cache
+D:\Seminar1LanguageProgramm\squereNumber\obj\Debug\net6.0\ref\squereNumber.dll
